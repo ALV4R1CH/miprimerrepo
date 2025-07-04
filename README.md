@@ -6,3 +6,5 @@ Esto lo añado para mostar que puedo hacer pruebas y escribir desde el repositor
 añadiendo otra lineas para demostrar como funciona
 
 añadiendo otro commit para ver como funciona pull
+
+edito esto para probar que no puedo hacer psuh sin hacer pull
